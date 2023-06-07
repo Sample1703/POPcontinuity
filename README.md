@@ -224,6 +224,8 @@ The expected format for this file as follow:
 This file contains the Ascii file describing the initial world.  
 It must be named **map.asc**.
 
+<img width="864" alt="Screenshot 2023-06-07 164723" src="https://github.com/Sample1703/POPcontinuity/assets/118454951/5ab5aacb-30f8-4562-a5a8-36ae59b185f4">
+
 #### Vegetation files
 
 These files contain the friction (F) and carrying capacity (K) values
@@ -234,6 +236,8 @@ for each vegetation category. It must be named
 This is an example of expected format for these files:
 
     #> [1] "1\t40\tTropical rainforest"
+    
+<img width="557" alt="Screenshot 2023-06-03 161754" src="https://github.com/Sample1703/POPcontinuity/assets/118454951/43126d31-c4e1-49a6-b135-bf9df93b503b">
 
 *For additional information regarding the setting files, you can consult
 the SPLATCHE3 user manual :
