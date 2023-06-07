@@ -112,9 +112,10 @@ raster_to_pdf(map)
 #> This package is now running under evolution status 0
 ```
 
-<img src="man/figures/README-example3-1.png" width="100%" />
+<img width="393" alt="Screenshot 2023-06-07 164400" src="https://github.com/Sample1703/POPcontinuity/assets/118454951/7f4fff0c-1cbc-4e0c-82fe-1441fef87b41">
 
     #> png 
+
     #>   2
 
 Note that this function uses the package <code>raster</code>. In case of
