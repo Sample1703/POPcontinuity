@@ -239,7 +239,7 @@ This is an example of expected format for these files:
 
     #> [1] "1\t40\tTropical rainforest"
     
-<img width="557" alt="Screenshot 2023-06-03 161754" src="https://github.com/Sample1703/POPcontinuity/assets/118454951/43126d31-c4e1-49a6-b135-bf9df93b503b">
+<img width="382" alt="Screenshot 2023-06-07 164600" src="https://github.com/Sample1703/POPcontinuity/assets/118454951/8c72007e-2e3a-4b47-a495-3435da508aab">
 
 *For additional information regarding the setting files, you can consult
 the SPLATCHE3 user manual :
