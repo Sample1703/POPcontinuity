@@ -226,7 +226,7 @@ The expected format for this file as follow:
 This file contains the Ascii file describing the initial world.  
 It must be named **map.asc**.
 
-<img width="864" alt="Screenshot 2023-06-07 164723" src="https://github.com/Sample1703/POPcontinuity/assets/118454951/5ab5aacb-30f8-4562-a5a8-36ae59b185f4">
+<img width="382" alt="Screenshot 2023-06-07 164600" src="https://github.com/Sample1703/POPcontinuity/assets/118454951/2bf5f719-179c-403c-bc0c-9abde66170d5">
 
 #### Vegetation files
 
