@@ -229,8 +229,6 @@ for each vegetation category. It must be named
 
 This is an example of expected format for these files:
 
-    #> [1] "1\t40\tTropical rainforest"
-
 <img width="382" alt="Screenshot 2023-06-07 164600" src="https://github.com/Sample1703/POPcontinuity/assets/118454951/99bd1b15-dcf1-4e79-90c4-a5c343011cdf">
 
 
