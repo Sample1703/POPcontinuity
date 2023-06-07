@@ -23,7 +23,7 @@ of the University of Geneva. You can follow the following procedure :
 -   Install it using this command line
 
 ``` r
-install.packages("POPcontinuity.tar.gz")
+install.packages("PoPcontinuity.tar.gz")
 ```
 
 Note that to make full use of the package, an access to the
