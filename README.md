@@ -107,7 +107,7 @@ raster_to_pdf() produce the visual output :
 map <- paste(system.file("extdata",package="POPcontinuity"),"map.asc",sep="/")
 raster_to_pdf(map)
 ```
-
+<img width="393" alt="Screenshot 2023-06-07 164400" src="https://github.com/Sample1703/POPcontinuity/assets/118454951/45317bb7-a563-48a2-bcea-47ed985a9fc5">
 [raster_map.pdf](https://github.com/Sample1703/POPcontinuity/files/11678808/raster_map.pdf)
 
     #> png 
