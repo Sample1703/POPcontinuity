@@ -38,13 +38,12 @@ Note that to make full use of the package, an access to the
 
 During the installation you may see the following warnings :
 
-<code> Warning messages: 1: In readLines(file, skipNul = TRUE, encoding
-= “bytes”) : cannot open compressed file
-‘/usr/lib/R/site-library/dplyr/DESCRIPTION’, probable reason ‘No such
-file or directory’ 2: In readLines(file, skipNul = TRUE, encoding =
-“bytes”) : cannot open compressed file
-‘/usr/lib/R/site-library/rlang/DESCRIPTION’, probable reason ‘No such
-file or directory’ </code>
+<code> Warning messages: 
+    1: In readLines(file, skipNul = TRUE, encoding= “bytes”) : cannot open compressed file
+    ‘/usr/lib/R/site-library/dplyr/DESCRIPTION’, probable reason ‘No such file or directory’ 
+    2: In readLines(file, skipNul = TRUE, encoding =“bytes”) : cannot open compressed file
+    ‘/usr/lib/R/site-library/rlang/DESCRIPTION’, probable reason ‘No such file or directory’ 
+</code>
 
 It is probably due to later versions installed by GitHub or others, or
 poorly constructed versions that are missing the DESCRIPTION files.  
