@@ -220,6 +220,8 @@ The expected format for this file as follow:
 This file contains the Ascii file describing the initial world.  
 It must be named **map.asc**.
 
+<img width="864" alt="Screenshot 2023-06-07 164723" src="https://github.com/Sample1703/POPcontinuity/assets/118454951/500732b7-ceea-47fe-955a-2269333aba91">
+
 #### Vegetation files
 
 These files contain the friction (F) and carrying capacity (K) values
