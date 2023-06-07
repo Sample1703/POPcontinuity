@@ -218,6 +218,8 @@ The expected format for this file as follow:
     #> [2] "#chromosome 1, //per Block:data type, number of loci, per generation recombination, per site mutation rates and transition rate (fraction of substitutions that are transitions)"
     #> [3] "1"                                                                                                                                                                               
     #> [4] "DNA    341   0.0000    0.0000078585   0.9841"
+    
+<img width="724" alt="Screenshot 2023-06-07 190942" src="https://github.com/Sample1703/POPcontinuity/assets/118454951/d490239e-8f88-451a-bbd9-8e6459f21d7c">
 
 #### Map.asc
 
