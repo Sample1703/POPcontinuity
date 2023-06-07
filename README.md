@@ -108,7 +108,7 @@ map <- paste(system.file("extdata",package="POPcontinuity"),"map.asc",sep="/")
 raster_to_pdf(map)
 ```
 
-<img src="man/figures/README-example3-1.png" width="100%" />
+[raster_map.pdf](https://github.com/Sample1703/POPcontinuity/files/11678808/raster_map.pdf)
 
     #> png 
     #>   2
